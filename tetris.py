@@ -140,3 +140,13 @@ def create_grid(locked_pos={}):
 
 def convert_shape_format():
   pass
+
+def valid_space():
+  pass
+
+def check_lost():
+  pass
+
+def get_shape():
+  pass
+
