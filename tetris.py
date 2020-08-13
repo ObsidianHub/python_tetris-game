@@ -150,3 +150,12 @@ def check_lost():
 def get_shape():
   pass
 
+def draw_text_middle():
+  pass
+
+def draw_grid():
+  pass
+
+def clear_rows():
+  pass
+
