@@ -131,3 +131,12 @@ shape_colors = [
     (0, 0, 255),
     (128, 0, 128)
   ]
+
+class Piece(object):
+  pass
+
+def create_grid(locked_pos={}):
+  pass
+
+def convert_shape_format():
+  pass
