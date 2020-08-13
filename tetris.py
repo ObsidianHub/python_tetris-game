@@ -159,3 +159,12 @@ def draw_grid():
 def clear_rows():
   pass
 
+def draw_next_shape():
+  pass
+
+def draw_window():
+  pass
+
+def main():
+  pass
+
