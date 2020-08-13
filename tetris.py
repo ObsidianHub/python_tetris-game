@@ -168,3 +168,7 @@ def draw_window():
 def main():
   pass
 
+def main_menu():
+  pass
+
+main_menu()
